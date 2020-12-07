@@ -6,7 +6,7 @@ Here, X contains 1059 observations and 68 feature dimensions. Y can be either th
 
 * The performance varied greatly depending on how we split the dataset. Especially for latitude testing, the quantiles of vanilla model was noticeably larger than that of others
 
-### Coefficient Plot
+# Coefficient Plot
 **Vanilla**  
 ![Image1](/fig/coef_norms_vanilla_latitude.png)    
 **Ridge**  
@@ -15,7 +15,7 @@ Here, X contains 1059 observations and 68 feature dimensions. Y can be either th
 ![Image3](/fig/coef_norms_lasso_latitude.png)    
 
 
-### Performance Comparison
+# Performance Comparison
 **Latitude**  
 ![Image4](/fig/boxplot_comparison_latitude.png)    
 **Longitude**  
