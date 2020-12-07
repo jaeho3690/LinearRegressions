@@ -14,9 +14,22 @@ Here, X contains 1059 observations and 68 feature dimensions. Y can be either th
 **Lasso**  
 ![Image3](/fig/coef_norms_lasso_latitude.png)    
 
-
 # Performance Comparison
 **Latitude**  
 ![Image4](/fig/boxplot_comparison_latitude.png)    
 **Longitude**  
 ![Image5](/fig/boxplot_comparison_longitude.png)    
+
+# Lambda Comparison
+**Latitude & Ridge**  
+![Image6](/fig/lambda_latitude_ridge.png)    
+**Latitude & Lasso**  
+![Image7](/fig/lambda_latitude_lasso.png)    
+
+**Longitude & Ridge**  
+![Image6](/fig/lambda_longitude_ridge.png)    
+**Longitude & Lasso**  
+![Image7](/fig/lambda_longitude_lasso.png)    
+
+
+
